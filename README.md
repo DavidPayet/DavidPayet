@@ -1,7 +1,7 @@
 <h1 align="center">I'm David</h1>
 
 
-<h3 align="center">Self-taught web developer, I am passionate about creating digital solutions<br> My curiosity pushes me to constantly learn and explore new technologies while taking on exciting challenges.</h3>
+<h3 align="center">Self-taught web developer, I am passionate about creating digital solutions.<br> My curiosity pushes me to constantly learn and explore new technologies while taking on exciting challenges.</h3>
 
 ![davidpay](https://komarev.com/ghpvc/?username=davidpay&label=Profile%20views&color=0e75b6&style=flat)
 
